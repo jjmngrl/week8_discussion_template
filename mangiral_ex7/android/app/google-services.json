@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598831213356",
+    "project_id": "cmsc23-expenses-app-jomangiral",
+    "storage_bucket": "cmsc23-expenses-app-jomangiral.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598831213356:android:d1b8c38a14d03b82e69a89",
+        "android_client_info": {
+          "package_name": "com.example.mangiral_ex7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYwShpEzVHJ4SijCjAxAhMnbLLgCnLLYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
